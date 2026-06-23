@@ -50,7 +50,6 @@ El objetivo principal ha sido identificar patrones de consumo energético, difer
 https://colab.research.google.com/drive/13Wv87xqw2ACVctmwMfe0AFtjD5zpnnXp?usp=sharing
 
 ### Dashboard de Google Looker Studio
-
 https://datastudio.google.com/reporting/7a969304-2063-45e2-8257-57475729c497
 
 ---
